@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: codegen-c1742387315858-database-config
+data:
+  VECTORDB_HOST: "codegen-c1742387315858-database"
+  VECTORDB_PORT: ""

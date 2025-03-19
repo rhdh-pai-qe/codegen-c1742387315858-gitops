@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: codegen-c1742387315858-repository
+spec:
+  url: https://github.com/rhdh-pai-qe/codegen-c1742387315858
